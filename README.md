@@ -31,5 +31,5 @@ It's not the years in your life that counts. It is the life in your years!
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ## 📫 How to Reach Me:
-[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Abbhinav on LinkedIn" title="Follow Abbhinav on LinkedIn"/>](www.linkedin.com/in/abbhinavvenkat) &nbsp; <a href="mailto:abbhinav@123ofai.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
+[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Abbhinav on LinkedIn" title="Follow Abbhinav on LinkedIn"/>](https://www.linkedin.com/in/abbhinavvenkat) &nbsp; <a href="mailto:abbhinav@123ofai.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
   
