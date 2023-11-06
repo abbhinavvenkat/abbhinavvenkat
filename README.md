@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Side Image" align="right" width="500">
 <br><br>
+
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🖥 ML Scientist
+- 💼 Founder & CEO [123 of AI](https://123ofai.com/)
+- 🎓 Former Reseacher Scholar @Stanford, BTech & MS - IIIT-Hyderabad
+
