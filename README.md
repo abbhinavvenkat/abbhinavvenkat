@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 🎓 Former Reseacher Scholar @Stanford, BTech & MS - IIIT-Hyderabad
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Abbhinav on LinkedIn" title="Follow Abbhinav on LinkedIn"/>](www.linkedin.com/in/abbhinavvenkat) &nbsp; <a href="mailto:abbhinav@123ofai.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Abbhinav on LinkedIn" title="Follow Abbhinav on LinkedIn"/>](www.linkedin.com/in/abbhinavvenkat) &nbsp; <a href="mailto:abbhinav@123ofai.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
   
